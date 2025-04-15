@@ -89,11 +89,8 @@ class ClientController:
         return filename, file_data
 ```
 
-#### controller.py
-```
-```
 
-#### socket.py
+#### view.py
 ```
 import socket
 
